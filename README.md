@@ -159,4 +159,4 @@ This demonstration shows how you can use Debezium to create, update, and delete 
 
 
 
-Note: When you restart the Debezium service, you need to send a transaction to start the replication, so be sure you reset the service using `http://localhost:8082/start` if you have anty issue. 
+Note: When you restart the Debezium service, you need to send a transaction to start the replication, so be sure you reset the service using `http://localhost:8082/reset` if you have anty issue. 
